@@ -1,6 +1,13 @@
+# About me
+-🧠 I'm currently learning **Web, microcontroller programming**  
+-📝 Know about my experiences [CV](cv-link)  
+-📮 Reach me by [email](mailto:tikhonkananchuk@gmail.com)  
+-🌍 I speak English  
 
 
 <div id="socials" style="text-align: left;">
+
+  
 
 <div>
 
@@ -23,12 +30,9 @@
 </a>
 
 <a href="c-url">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
 </a>
 
-<a href="fastapi-url">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  width="40" height="40"/>          
-</a>
 
 </div>
 <div>
@@ -72,10 +76,10 @@
 </a>
 
 <a href="apache-kafka-url">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache kafka" width="40" height="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache kafka" width="40" height="40"/>         
 </a>
+
+
 
 <a href="vscode-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40" />
@@ -89,10 +93,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40" />
 </a>
 
+<a href="fastapi-url">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" />
+</a>
+
 </div>
 </div>
 
-
+<h2>Stats</h2>
 
 <div id="stat" style="text-align: center;">
 
