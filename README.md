@@ -40,6 +40,9 @@
 <a href="postgres-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" />
 </a>
+<a href="firebase-url">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40" />
+</a>
 
 </div>
 
