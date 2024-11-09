@@ -13,9 +13,7 @@
 
 <h2>Languages</h2>
 
-<a href="javascript-url">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
-</a>
+
 
 <a href="cplus-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
@@ -32,7 +30,12 @@
 <a href="c-url">
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
 </a>
-
+<a href="kotlin-url">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" />
+</a>
+<a href="javascript-url">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
+</a>
 
 </div>
 <div>
