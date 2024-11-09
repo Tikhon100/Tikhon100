@@ -18,6 +18,9 @@
 <a href="cplus-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
 </a>
+<a href="c-url">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white" title="C" width="40" height="40"  />
+</a>
 
 <a href="python-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
@@ -34,9 +37,7 @@
 <a href="javascript-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
 </a>
-<a href="c-url">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
-</a>
+
 
 
 </div>
