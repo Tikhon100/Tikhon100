@@ -34,6 +34,10 @@
 <a href="javascript-url">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
 </a>
+<a href="c-url">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
+</a>
+
 
 </div>
 <div>
@@ -44,9 +48,7 @@
 <a href="firebase-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40" />
 </a>
-<a href="c-url">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
-</a>
+
 
 
 </div>
