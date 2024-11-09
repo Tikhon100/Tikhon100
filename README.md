@@ -27,9 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />
 </a>
 
-<a href="c-url">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
-</a>
+
 <a href="kotlin-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" />
 </a>
@@ -46,6 +44,10 @@
 <a href="firebase-url">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40" />
 </a>
+<a href="c-url">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"  />
+</a>
+
 
 </div>
 
